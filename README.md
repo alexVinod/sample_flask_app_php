@@ -1,9 +1,9 @@
 # Run Flask Application with PHP Curl Command...
 
 ### Python things...
-<p>Install flask :</p>
-<mark> pip install flask </mark>
+<b>Install flask :</b>
+`pip install flask` 
 
 ### PHP things...
-<p>Run PHP in apache server... <p>
+<p>Run PHP file `myphp.php` in apache server... <p>
  
